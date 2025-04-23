@@ -14,13 +14,6 @@ Criar um site moderno, responsivo e funcional para apresentar os serviços ofere
 - JavaScript
 - GitHub Pages
 
-## 📁 Estrutura
-
-formata-facil-site/
-│
-formata-facil-site/ │ ├── index.html # Página principal do site ├── css/ │ └── style.css # Estilos customizados ├── js/ │ └── script.js # Scripts adicionais (opcional) ├── img/ │ ├── logo.png # Logotipo e imagens │ └── serviços/ # Ilustrações dos serviços └── README.md # Este documento
-
-
 ## 📸 Prévia
 
 ![Prévia do site](img/preview.png)
