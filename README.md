@@ -18,16 +18,7 @@ Criar um site moderno, responsivo e funcional para apresentar os serviços ofere
 
 formata-facil-site/
 │
-├── index.html              # Página principal do site
-├── css/
-│   └── style.css           # Estilo customizado do site
-├── js/
-│   └── script.js           # Caso use algum JS personalizado
-├── img/
-│   ├── logo.png            # Logo ou ícones utilizados
-│   └── serviços/           # Imagens relacionadas aos cards de serviços
-├── README.md               # Documentação do projeto
-└── LICENSE                 # (opcional) Licença do projeto
+formata-facil-site/ │ ├── index.html # Página principal do site ├── css/ │ └── style.css # Estilos customizados ├── js/ │ └── script.js # Scripts adicionais (opcional) ├── img/ │ ├── logo.png # Logotipo e imagens │ └── serviços/ # Ilustrações dos serviços └── README.md # Este documento
 
 
 ## 📸 Prévia
