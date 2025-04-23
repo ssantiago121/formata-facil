@@ -1,0 +1,22 @@
+body {
+    background-color: #f8f9fa;
+  }
+  .navbar-brand img {
+    height: 40px;
+  }
+  .navbar-brand span {
+    font-weight: bold;
+    font-size: 1.25rem;
+    color: #000000;
+  }
+  .navbar-brand small {
+    display: block;
+    font-size: 0.8rem;
+    color: #6c757d;
+  }
+  .services .card {
+    transition: transform 0.2s;
+  }
+  .services .card:hover {
+    transform: scale(1.05);
+  }
