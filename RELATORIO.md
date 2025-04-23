@@ -51,8 +51,7 @@ Profissionais autônomos muitas vezes têm dificuldades em apresentar seus servi
 
 ## 📸 6. Imagens e Prints
 
-> Insira aqui imagens ou prints do processo de desenvolvimento (interface no VS Code, prévia no navegador, versão mobile, etc). Você pode adicioná-los à pasta `img/` e referenciar com:
->
+> Imagens do processo de desenvolvimento (interface no VS Code, prévia no navegador, versão mobile, etc).
 > ![Tela inicial do site](img/preview.png)
 
 ---
