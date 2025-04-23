@@ -1,4 +1,4 @@
-# 📘 Diário de Bordo de Desenvolvimento – Site "Formata Fácil"
+# 📘 Relatório de Desenvolvimento – Site "Formata Fácil"
 
 Este documento relata o processo de criação do site institucional **Formata Fácil**, desenvolvido por **Fábio Santiago de Sousa Júnior** como parte da **Atividade Extensionista 2** do curso de **Engenharia de Software (2º período)** da Gran Faculdade.
 
