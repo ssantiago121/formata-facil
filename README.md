@@ -26,10 +26,6 @@ Criar um site moderno, responsivo e funcional para apresentar os serviços ofere
 
 A atividade está alinhada ao **ODS 8 – Trabalho Decente e Crescimento Econômico**, ao promover a inclusão digital e o fortalecimento de pequenos negócios locais por meio da tecnologia.
 
-## 📘 Relatório de Desenvolvimento
-
-Acesse o [relatório completo de desenvolvimento](RELATORIO.md) para entender o processo, as etapas, e as ferramentas utilizadas no projeto.
-
 ## 👨‍💻 Autor
 
 **Fábio Santiago de Sousa Júnior**  
