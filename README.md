@@ -20,7 +20,7 @@ Criar um site moderno, responsivo e funcional para apresentar os serviços ofere
 
 ## 🌐 Acesse o site
 
-[🔗 Clique aqui para acessar a versão publicada no GitHub Pages](https://ssantiago121.github.io/formata-facil/)  
+[🔗 Clique aqui para acessar o site publicado no GitHub Pages](https://ssantiago121.github.io/formata-facil/)  
 
 ## 📈 Contribuição para os ODS
 
