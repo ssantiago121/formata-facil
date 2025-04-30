@@ -30,7 +30,7 @@ A atividade está alinhada ao **ODS 8 – Trabalho Decente e Crescimento Econôm
 
 **Fábio Santiago de Sousa Júnior**  
  - Aluno do Curso de Engenharia de Software da [Gran Faculdade](https://faculdade.grancursosonline.com.br/)
- - Desenvolvido como parte da Atividade Extensionista
+ - Desenvolvido como parte da Atividade Extensionista 2
 
 ---
 
